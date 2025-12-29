@@ -61,5 +61,7 @@ This internship strengthened my **understanding of AWS Cloud fundamentals and pr
 ---
 
 ## Certification & Badge
-- AWS Cloud Practitioner – Trained  
+- AWS Cloud Practitioner – Trained
 - AWS Cloud Quest – Cloud Practitioner *(Credly Verified Badge)*
+-   <img width="601" height="601" alt="aws-cloud-quest-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/d4120708-e231-4afd-aa08-4249b4fb1c13" />
+
