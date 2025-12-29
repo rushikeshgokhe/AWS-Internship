@@ -1,4 +1,4 @@
-# Cloud Internship – AWS Skill Builder (Cloud Practitioner)
+Cloud Internship – AWS Skill Builder (Cloud Practitioner)
 
 This repository documents my **cloud internship learning and hands-on lab experience** completed through **AWS Skill Builder (Cloud Quest – Cloud Practitioner)**.
 
@@ -6,7 +6,7 @@ The internship focused on building **foundational AWS Cloud knowledge with guide
 
 ---
 
-## 🏢 Internship Details
+ Internship Details
 - **Role:** Cloud Intern (Virtual / Training-based)
 - **Platform:** AWS Skill Builder – Cloud Quest
 - **Duration:** 1 Month
@@ -14,9 +14,9 @@ The internship focused on building **foundational AWS Cloud knowledge with guide
 
 
 
-## ☁️ Technologies & Services Used
+ Technologies & Services Used
 
-### Core AWS Services
+ Core AWS Services
 - Amazon EC2
 - Amazon S3
 - Amazon VPC
@@ -28,9 +28,9 @@ The internship focused on building **foundational AWS Cloud knowledge with guide
 - Amazon RDS (Multi-AZ – Basics)
 - Amazon EFS (Basics)
 
----
 
-## 🛠️ Hands-on Work Performed
+
+ Hands-on Work Performed
 
 - Launched and configured EC2 instances
 - Designed VPCs with public & private subnets
@@ -42,9 +42,9 @@ The internship focused on building **foundational AWS Cloud knowledge with guide
 - Performed basic NoSQL operations using DynamoDB
 - Implemented high-availability concepts using Multi-AZ architecture
 
----
 
-##  Internship Modules Completed
+
+ Internship Modules Completed
 
 - Cloud Computing Essentials
 - Networking Concepts
@@ -55,12 +55,12 @@ The internship focused on building **foundational AWS Cloud knowledge with guide
 - File Systems in the Cloud
 - Cloud Economics
 
-##  Learning Outcome
+  Learning Outcome
 
 This internship strengthened my **understanding of AWS Cloud fundamentals and practical cloud workflows**, with a focus on **hands-on lab-based learning** rather than production deployments.
 
 
-##  Certification & Badge
+  Certification & Badge
 - AWS Cloud Practitioner – Trained
 - AWS Cloud Quest – Cloud Practitioner (Credly Verified Badge)
 
